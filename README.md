@@ -1,4 +1,4 @@
-# MLZoomcamp2022
+# MLZoomcamp2022 My Notes
 
 My Notes and Homeworks for **Machine Learning Engineering Zoomcamp** by [**DataTalks.Club**](https://twitter.com/DataTalksClub).
 
