@@ -4,7 +4,7 @@ My Notes and Homeworks for **Machine Learning Engineering Zoomcamp** by [**DataT
 
 Learn **Machine Learning Engineering** in 4 months with [**MLZoomcamp by Alexey Grigorev and DataTalks Club**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp).
 
-![cover.png](H:\My%20Drive\github\MLZoomcamp2022\images\cover.png)
+![cover.png](images\cover.png)
 
 ## Useful Links:
 
@@ -16,7 +16,7 @@ Learn **Machine Learning Engineering** in 4 months with [**MLZoomcamp by Alexey 
 
 ## Syllabus Todo
 
-- [ ] [1. Introduction to Machine Learning](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp#1-introduction-to-machine-learning)
+- [ ] [1. Introduction to Machine Learning
 - [ ] [2. Machine Learning for Regression](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp#2-machine-learning-for-regression)
 - [ ] [3. Machine Learning for Classification](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp#3-machine-learning-for-classification)
 - [ ] [4. Evaluation Metrics for Classification](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp#4-evaluation-metrics-for-classification)
