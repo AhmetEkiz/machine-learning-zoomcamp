@@ -1,6 +1,6 @@
 # MLZoomcamp2022 My Notes
 
-My Notes and Homeworks for **Machine Learning Engineering Zoomcamp** by [**DataTalks.Club**](https://twitter.com/DataTalksClub). I take the course at self-paced mode. 
+My Notes and Homeworks for **Machine Learning Engineering Zoomcamp** by [**DataTalks.Club**](https://twitter.com/DataTalksClub). (I take the course at self-paced mode.)
 
 Learn **Machine Learning Engineering** in 4 months with [**MLZoomcamp by Alexey Grigorev and DataTalks Club**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp).
 
