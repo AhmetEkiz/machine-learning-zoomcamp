@@ -4,7 +4,7 @@ My Notes and Homeworks for **Machine Learning Engineering Zoomcamp** by [**DataT
 
 Learn **Machine Learning Engineering** in 4 months with [**MLZoomcamp by Alexey Grigorev and DataTalks Club**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp).
 
-![cover.png](images\cover.png)
+![cover](https://github.com/AhmetEkiz/MLZoomcamp2022/blob/main/images/cover.png?raw=true)
 
 ## Useful Links:
 
