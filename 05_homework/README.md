@@ -2,9 +2,9 @@
 
 I am at 2022 cohort but in self-paced mode!
 
-[**Homework Folder**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/cohorts/2022/05-deployment)
+[**Official Homework Folder**](https://github.com/alexeygrigorev/mlbookcamp-code/tree/master/course-zoomcamp/cohorts/2022/05-deployment)
 
-**[Homework Readme and Solutions Links](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/05-deployment/homework.md)**
+**[Official Homework Readme and Solutions Links](https://github.com/alexeygrigorev/mlbookcamp-code/blob/master/course-zoomcamp/cohorts/2022/05-deployment/homework.md)**
 
 ## Q1
 
