@@ -1,8 +1,10 @@
 # Deploy a ML Model to the AWS Elastic Beanstalk
 
+**[For More Details: My Deployment Notes](https://github.com/AhmetEkiz/MLZoomcamp2022/blob/main/05_deployment/05_deployment_notes.md)**
+
 **AWS Elastic Beanstalk** deploys web applications and will notice that we have a lot of requests and it will scale up our service so that it will add more containers.
 
-[Creating an AWS Account - Machine Learning Bookcamp](https://mlbookcamp.com/article/aws)
+- [Creating an AWS Account - Machine Learning Bookcamp](https://mlbookcamp.com/article/aws)
 
 # To Deploy our sevice to EB
 
